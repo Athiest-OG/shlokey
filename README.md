@@ -77,7 +77,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Author
 Omkar
 
-For any queries, feel free to reach out at https://github.com/atheistog
+For any queries, feel free to reach out at https://github.com/atheistog.
 
 Enjoy using **Shlokey** for secure and interesting text transformations!
 
