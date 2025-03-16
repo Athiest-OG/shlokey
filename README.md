@@ -19,7 +19,7 @@ Ensure you have the following installed on your system:
 ## Setup
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/yourusername/shlokey.git
+   git clone https://github.com/atheistog/shlokey.git
    cd shlokey
    ```
 2. Place the required JSON files (`pali.json` and `brahmi.json`) in the same directory as the script.
@@ -77,7 +77,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Author
 Omkar
 
-For any queries, feel free to reach out at https://github.com/Athiest-OG
+For any queries, feel free to reach out at https://github.com/atheistog
 
 Enjoy using **Shlokey** for secure and interesting text transformations!
 
