@@ -28,7 +28,7 @@ Ensure you have the following installed on your system:
 ## Usage
 Run the script using:
 ```bash
-python script.py
+python shlokey.py
 ```
 
 ### Encryption
